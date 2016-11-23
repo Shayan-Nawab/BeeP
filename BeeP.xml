@@ -1,5 +1,5 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
   <block type="multimedia_playwav" id="32" x="339" y="212">
-    <field name="WAV">beep</field>
+    <field name="WAV">sound</field>
   </block>
 </xml>
